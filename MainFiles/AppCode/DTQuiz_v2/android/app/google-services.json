@@ -1,0 +1,147 @@
+{
+  "project_info": {
+    "project_number": "295275829272",
+    "firebase_url": "https://quizapp-cf4a2.firebaseio.com",
+    "project_id": "quizapp-cf4a2",
+    "storage_bucket": "quizapp-cf4a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295275829272:android:4a22ce8f8830d59fe00b6d",
+        "android_client_info": {
+          "package_name": "com.divinetechs.quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295275829272-0q6t7d8hjf9cthmi21ebb9tjpaasrloh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.divinetechs.quiz",
+            "certificate_hash": "4443a22f4052d39d669dd5d3a00b1c4920a248cd"
+          }
+        },
+        {
+          "client_id": "295275829272-2e6gldiihk3q9qmdibm5ojt47adehlmo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.divinetechs.quiz",
+            "certificate_hash": "7a4d52592ecdc15d3497d5c0d91c1705437114fd"
+          }
+        },
+        {
+          "client_id": "295275829272-2mmh4tth47t6sebmh2vdsv0h9e2e8oek.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.divinetechs.quiz",
+            "certificate_hash": "2225beda9471e48d9bd29a6f679e0317cf09b3a6"
+          }
+        },
+        {
+          "client_id": "295275829272-83d6epacdggv8vd64o9lfb953a3u9seg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.divinetechs.quiz",
+            "certificate_hash": "4b37a648f4b3745c2fcf0f2a6574030d8ebe7561"
+          }
+        },
+        {
+          "client_id": "295275829272-lv2j05ocrpifkf3ql98gteppfsheg2n6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.divinetechs.quiz",
+            "certificate_hash": "2d619a609f48056a0d2c5e2a49855aa902462a44"
+          }
+        },
+        {
+          "client_id": "295275829272-sgnvnlbukn5uacdoku9ufim6v42cgfe3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.divinetechs.quiz",
+            "certificate_hash": "20a94974bf7937b543adf14ded203aef1e61302b"
+          }
+        },
+        {
+          "client_id": "295275829272-vnqtmdnn5ie85087tuml7h2o4oqh2mcq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.divinetechs.quiz",
+            "certificate_hash": "184913cec821c558acdce81ac35f62c71d8bf19f"
+          }
+        },
+        {
+          "client_id": "295275829272-b91bflleace9q1k9m8r8rkbh3rfhm6rh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBctDzqJCRheSGCIFr_U-PWW5NnmlecmpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295275829272-b91bflleace9q1k9m8r8rkbh3rfhm6rh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "295275829272-57lehrf678bln8ls9fuermuraqja8e8f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.quizapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295275829272:android:f955e7e7a8dc70e7e00b6d",
+        "android_client_info": {
+          "package_name": "com.divinetechs.quizapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295275829272-sc054prsnl94vfi46tns7j2nk7lmhve7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.divinetechs.quizapp",
+            "certificate_hash": "f2da024b55f7deb5d743f9333cae07f5dc39eb5b"
+          }
+        },
+        {
+          "client_id": "295275829272-b91bflleace9q1k9m8r8rkbh3rfhm6rh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBctDzqJCRheSGCIFr_U-PWW5NnmlecmpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295275829272-b91bflleace9q1k9m8r8rkbh3rfhm6rh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "295275829272-57lehrf678bln8ls9fuermuraqja8e8f.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.quizapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
